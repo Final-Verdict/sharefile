@@ -9,8 +9,8 @@
         "2606:4700:110:87fd:d3bc:b060:fc17:171d/128"
       ],
       "private_key": "qEqCVqV+l47lp7aSA+9SZDbdWsmE/eyCil8tmEJokGg=",
-      "server": "",
-      "server_port": 939,
+      "server": "162.159.192.116",
+      "server_port": 987,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
       "mtu": 1280,
